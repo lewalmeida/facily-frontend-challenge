@@ -6,6 +6,7 @@
 - Vue.js
 - VueX
 - SCSS
+- Axios
 
 ### É proibida a utilização de frameworks de CSS (Bootstrap, Tailwind, etc).
 
