@@ -1,6 +1,4 @@
-# Desafio técnico de Frontend Faci.ly
-
-## Bem vindo ao desafio técnico de Frontend da Faci.ly.
+# Bem vindo ao desafio técnico de Frontend da Faci.ly.
 
 ![GitHub Logo](/design/desktop-preview.jpg)
 
