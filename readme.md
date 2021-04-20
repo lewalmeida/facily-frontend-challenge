@@ -9,7 +9,7 @@
 
 ### É proibida a utilização de frameworks de CSS (Bootstrap, Tailwind, etc).
 
-Você deverá criar uma aplicação de listagem países 100% responsíva em Vue.js (Utilizando o [Vue/cli](https://cli.vuejs.org/)) consumindo os dados da API da [RESTCountries](https://restcountries.eu/#api-endpoints-code).
+Você deverá criar uma aplicação de listagem países 100% responsiva em Vue.js (Utilizando o [Vue/cli](https://cli.vuejs.org/)) consumindo os dados da API da [RESTCountries](https://restcountries.eu/#api-endpoints-code).
 
 Armazene os dados consumidos utilizado VueX.
 
